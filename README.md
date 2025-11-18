@@ -21,7 +21,7 @@ the game will start with an small ANSII anamation simular to one I had added to 
 
 Once in the game there is a main screen of play, unlike the orginal the srs scan is always updated as if its the main view screen.. and there is a comand box to the right
 
-![Main screen](main screen.png)
+![Main screen](mainscreen.png)
 
 
 1. WHEN YOU SEE 'COMMAND ?' PRINTED, ENTER ONE OF THE LEGAL
