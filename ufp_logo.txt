@@ -1,0 +1,14 @@
+                 [BLUE]______
+              _-' .   .`-_[GREEN]
+          |/ [BLUE]/.. . '   .\ [GREEN]\|
+         |/ [BLUE]/            ..\ [GREEN]\|
+       \|/ [BLUE]|: .   .[BLINK]_|_[RESET][BLUE] .. . |[GREEN] \|/
+        \/ [BLUE]|   _|_ .[BLINK]|[RESET][BLUE] . .:  | [GREEN]\/
+       \ / [BLUE]|.   |  .  .    .| [GREEN]\ /
+        \||[BLUE]| .  . .  _|_   .|[GREEN]||/
+       \__| [BLUE]\  . :.  .|.  ./ [GREEN]|__/
+         __| [BLUE]\_  .    .. _/ [GREEN]|__
+          __|  [BLUE]`-______-'  [GREEN]|__
+             -,[BLUE]____  ____[GREEN],-
+               [BLUE]---'  `---[RESET]
+     [BLUE] UNITED FEDERATION OF PLANETS [RESET]
