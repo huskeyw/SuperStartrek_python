@@ -11,6 +11,18 @@ Interpretation of 1970's Super Star Trek Game using all ASCII graphics
 *************************************
 
 INSTRUCTIONS FOR 'SUPER STAR TREK'
+when starting the game you will be presented with an option to choose diffaclty 
+
+![Choose Difaculty](diffacult.png)
+
+the game will start with an small ANSII anamation simular to one I had added to the orignal basic game --> https://github.com/RC2014Z80/RC2014/tree/master/BASIC-Programs/Super%20Startrek
+
+![Intro](intro.png)
+
+Once in the game there is a main screen of play, unlike the orginal the srs scan is always updated as if its the main view screen.. and there is a comand box to the right
+
+![Main screen](main screen.png)
+
 
 1. WHEN YOU SEE 'COMMAND ?' PRINTED, ENTER ONE OF THE LEGAL
    COMMANDS (NAV,SRS,LRS,PHA,TOR,SHE,DAM,COM, OR XXX).
